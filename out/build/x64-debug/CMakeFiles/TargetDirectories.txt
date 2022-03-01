@@ -1,0 +1,3 @@
+C:/Users/vaver/Desktop/InkBall/InkBall/out/build/x64-debug/CMakeFiles/InkBall.dir
+C:/Users/vaver/Desktop/InkBall/InkBall/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/vaver/Desktop/InkBall/InkBall/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
